@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @titiebae
+- 👋 Hi, I'm marshcore
 - 👀 I’m interested in ...software development
 - and cloud computing
 - 🌱 I’m currently learning ...python and kotlin 
